@@ -1,3 +1,5 @@
+package EJERCICIO_INVITADOS;
+
 import java.util.Scanner;
 
 public class Menu {

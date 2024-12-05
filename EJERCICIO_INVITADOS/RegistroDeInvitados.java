@@ -1,3 +1,5 @@
+package EJERCICIO_INVITADOS;
+
 import java.util.HashSet;
 import java.util.Iterator;
 
